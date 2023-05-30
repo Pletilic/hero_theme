@@ -1,0 +1,9 @@
+/*
+Theme Name:     HERO Theme 2022
+Template:       flatsome
+
+This is the child theme for Flatsome theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../flatsome/rtl.css");
